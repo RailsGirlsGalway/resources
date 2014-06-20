@@ -1,0 +1,14 @@
+# Ignore other unneeded files.
+database.yml
+# Ignore Rails documentation files
+doc/
+# Ignore Vim and Emacs swap files
+*.swp
+*~
+.project
+# Ignore (for OS X users) the .DS_Store directories created by the Mac Finder application
+.DS_Store
+.idea
+.secret
+  
+*xcf
