@@ -18,9 +18,13 @@ body{
   padding:100px;
 }
 
+.break{
+  color: green;
+}
+
 .slide:not(#slide1){
   background:rgba(255,255,255,0.5);
-  background-image: url('../images/chrome.png');
+  background-image: url('../images/rg-galway.jpg');
   background-position:bottom right;
   background-repeat: no-repeat;
 }
