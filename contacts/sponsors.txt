@@ -1,0 +1,7 @@
+SPONSOR CONTACTS
+
+Ericsson: John Smyth
+Cisco: Sheila Greaney (sgreaney)
+Red Hat: ask Gerry Kavanagh 
+Microsoft: Clare Dillon, Robert Deering, Stephen Howell (t-rodeer, v-sthowe)
+GitHub: Ciara McGuire (sponsorship)

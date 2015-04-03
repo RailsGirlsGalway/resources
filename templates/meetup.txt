@@ -1,0 +1,19 @@
+Dear <>,
+
+I'm co-organising Rails Girls Galway, a free 2-days workshop for women to learn programming a Web application. It's meant to demystify coding, let attendees have fun and be creative with it, plus demolishing stereotypes.
+
+I think the members of your group may be interested in applying (places are limited). could you kindly, please, consider posting the event in your group? An announcement follows below. thanks  a million!
+
+Rails Girls is back to Galway!
+
+A *free* non-profit 2-days workshop willprovide a first approach to Web application
+
+development.
+It relies on the Ruby on Rails framework and on the Rails Girls worldwide community.
+
+Places are limited so be sure to submit your application http://railsgirls.com/galway
+(deadline: <>).
+
+
+Cheers,
+<> (on behalf of Rails Girls Galway)

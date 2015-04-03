@@ -1,6 +1,13 @@
-Rails Girls is back to Galway! A *free* non-profit 2-days workshop will
-provide a first approach to Web application development, relying on the
-Ruby on Rails framework and on the Rails Girls worldwide community
-support. Places are limited so be sure to submit your application
-(deadline: <>, 201<>).
+Rails Girls Galway 2015: applications now open
 
+Rails Girls is back to Galway!
+
+A *free* non-profit 2-days workshop willprovide a first approach to Web application development.
+It relies on the Ruby on Rails framework and on the Rails Girls worldwide community.
+
+Places are limited so be sure to submit your application http://railsgirls.com/galway
+(deadline: <>).
+
+
+Cheers,
+<> (on behalf of Rails Girls Galway)
