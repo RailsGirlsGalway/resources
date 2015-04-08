@@ -1,0 +1,27 @@
+Dear <> Team,
+
+I hope this is the correct address to contact for my own inquiry. If
+not, may you kindly advise me otherwise, please?
+
+I am an organiser of the Galway, Ireland, chapter of the worldwide
+RailsGirls movement. Currently, I am organizing a programming workshop
+in Galway, on <month> <dates> [1] applying the successful RailsGirls format
+to address the IT gender gap.
+
+In the past years, several companies sponsored us [2] and we received an average of 100
+applications, out of which we selected an average of 70 participants each time.
+
+This year, we are searching for sponsors to cover our expenses, as
+detailed at [3]. Among those expenses we will give priorities to food, printed
+materials and t-shirts.
+
+Would you be interested in sponsoring us?
+Thanks a million!
+
+
+Best regards,
+<> on behalf of Rails Girls Galway
+
+[1] http://www.railsgirls.com/galway
+[2] http://railsgirls.com/files/galway/about
+[3] http://railsgirls.com/files/galway/sponsor_prospectus
