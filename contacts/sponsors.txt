@@ -1,7 +1,10 @@
 SPONSOR CONTACTS
 
+Among parenthesis there's the username to use for the email address. The rest of the address is the company official email, e.g., "@github.com". The name and surname listed are the name and surname of the particular person to contact at the corresponding email address. The email addresses are not listed in extensive form in order to preserve privacy.
+
 Ericsson: John Smyth
 Cisco: Sheila Greaney (sgreaney)
 Red Hat: ask Gerry Kavanagh 
 Microsoft: Clare Dillon, Robert Deering, Stephen Howell (t-rodeer, v-sthowe)
 GitHub: Ciara McGuire (sponsorship)
+
