@@ -4,7 +4,7 @@ Among parenthesis there's the username to use for the email address. The rest of
 
 Ericsson: John Smyth
 Cisco: Sheila Greaney (sgreaney)
-Red Hat: ask Gerry Kavanagh 
+Red Hat: ask Gerry Kavanagh (see email address among the members of the volunteer coaches google group)
 Microsoft: Clare Dillon, Robert Deering, Stephen Howell (t-rodeer, v-sthowe)
 GitHub: Ciara McGuire (sponsorship)
 
